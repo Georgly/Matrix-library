@@ -40,7 +40,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Complex.cs" />
     <Compile Include="IMathCalculator.cs" />
+    <Compile Include="MathCalculator.cs" />
     <Compile Include="MatrixException.cs" />
     <Compile Include="MatrixGeneric.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
