@@ -41,13 +41,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Complex.cs" />
-    <Compile Include="DifferentSizeException.cs" />
-    <Compile Include="DifferentTypesException.cs" />
-    <Compile Include="DivedeByZeroExcep.cs" />
     <Compile Include="IMathCalculator.cs" />
-    <Compile Include="IncorrectInputException.cs" />
+    <Compile Include="MathCalculator.cs" />
+    <Compile Include="MatrixException.cs" />
     <Compile Include="MatrixGeneric.cs" />
-    <Compile Include="OutOfRnageExcep.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -1,0 +1,6 @@
+C:\Users\Никита\Desktop\Matrix-library-1.3\Matrix\obj\Debug\Matrix.csprojResolveAssemblyReference.cache
+C:\Users\EgorV_000.PROMETEUS\Documentation\Univer\Programm\С#-proj\Matrix\Matrix\bin\Debug\Matrix.dll
+C:\Users\EgorV_000.PROMETEUS\Documentation\Univer\Programm\С#-proj\Matrix\Matrix\bin\Debug\Matrix.pdb
+C:\Users\EgorV_000.PROMETEUS\Documentation\Univer\Programm\С#-proj\Matrix\Matrix\obj\Debug\Matrix.csprojResolveAssemblyReference.cache
+C:\Users\EgorV_000.PROMETEUS\Documentation\Univer\Programm\С#-proj\Matrix\Matrix\obj\Debug\Matrix.dll
+C:\Users\EgorV_000.PROMETEUS\Documentation\Univer\Programm\С#-proj\Matrix\Matrix\obj\Debug\Matrix.pdb
