@@ -1,6 +1,6 @@
 ﻿namespace Matrix
 {
-    internal interface IMathCalculator<T>
+    public interface IMathCalculator<T>
     {
         T Add(T n1, T n2);
         T Sub(T n1, T n2);

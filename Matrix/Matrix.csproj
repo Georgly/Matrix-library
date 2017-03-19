@@ -40,10 +40,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Complex.cs" />
+    <Compile Include="DifferentSizeException.cs" />
+    <Compile Include="DifferentTypesException.cs" />
+    <Compile Include="DivedeByZeroExcep.cs" />
     <Compile Include="IMathCalculator.cs" />
-    <Compile Include="MatrixException.cs" />
+    <Compile Include="IncorrectInputException.cs" />
     <Compile Include="MatrixGeneric.cs" />
+    <Compile Include="OutOfRnageExcep.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SquareMatrixExcep.cs" />
+    <Compile Include="WrongOperation.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
